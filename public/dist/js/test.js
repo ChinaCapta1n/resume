@@ -1,0 +1,1 @@
+"use strict";var o="hello";console.log(o);var l=function(o,l){return o+l};console.log(l(1,2)),console.log("test222");
